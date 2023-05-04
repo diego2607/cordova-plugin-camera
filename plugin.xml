@@ -157,6 +157,7 @@
         </js-module>
     </platform>
 
+  
     <!-- osx -->
     <platform name="osx">
         <config-file target="config.xml" parent="/*">
